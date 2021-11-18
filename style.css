@@ -2,10 +2,12 @@ h1 {
     font-weight: 800;
     color: blue;
     margin-left: 200px;
+    font-size: 60px;
 }
 
 p {
     font-weight: 700;
     margin-left: 200px;
+    font-size: 30px;
     
 }
