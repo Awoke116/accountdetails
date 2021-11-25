@@ -1,13 +1,21 @@
 h1 {
     font-weight: 800;
     color: blue;
-    margin-left: 100px;
+    margin-left: 50px;
     font-size: 60px;
 }
 
 p {
     font-weight: 700;
-    margin-left: 100px;
+    margin-left: 50px;
     font-size: 20px;
-    
+}
+
+button {
+    margin-left: 50px;
+    background-color: rgb(106, 106, 223);
+    width: 450px;
+    height: 90px;
+    font-weight: bold;
+    font-size: 20px;
 }
