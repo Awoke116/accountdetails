@@ -16,6 +16,15 @@ p {
     font-size: 20px;
 }
 
+#datetime {
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+iframe {
+    margin-left: 50px;
+}
+
 button {
     margin-left: 50px;
     background-color: rgb(106, 106, 223);
