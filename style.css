@@ -2,7 +2,7 @@ h1 {
     font-weight: 800;
     color: blue;
     margin-left: 50px;
-    font-size: 5vw;
+    font-size: 8vw;
 }
 
 h5 {
@@ -13,7 +13,7 @@ h5 {
 p {
     font-weight: 700;
     margin-left: 50px;
-    font-size: 2vw;
+    font-size: 5vw;
 }
 
 #datetime {
