@@ -5,13 +5,13 @@ body {
 
 h1 {
     font-weight: 800;
-    color: blue;
+    color: #949697;
     margin-left: 50px;
     font-size: 9vw;
 }
 
 h4 {
-    color: blue;
+    color: #C5C6C7;
     margin-left: 50px;
 }
 
@@ -19,12 +19,14 @@ p {
     font-weight: 700;
     margin-left: 50px;
     font-size: 6vw;
+    color: #C5C6C7;
 }
 
 #datetime {
     margin-left: 50px;
     font-size: 20px;
     font-weight: 600;
+    color: #C5C6C7;
 }
 
 iframe {
