@@ -46,7 +46,7 @@ button {
 
 @media screen and (min-device-width: 768px)
 and (max-device-width: 1024px) {
-  .gfg-div {
+  body {
     width: 400px;
     height: 400px;
   }
@@ -55,7 +55,7 @@ and (max-device-width: 1024px) {
 /* For Mobile Portrait View */
 @media screen and (max-device-width: 480px)
 and (orientation: portrait) {
-  .gfg-div {
+  body {
     width: 200px;
     height: 200px;
   }
@@ -64,7 +64,7 @@ and (orientation: portrait) {
 /* For Mobile Landscape View */
 @media screen and (max-device-width: 640px)
 and (orientation: landscape) {
-  .gfg-div {
+  body {
     width: 400px;
     height: 200px;
   }
@@ -72,7 +72,7 @@ and (orientation: landscape) {
  
 /* For Mobile Phones Portrait or Landscape View */
 @media screen and (max-device-width: 640px) {
-  .gfg-div {
+  body {
     width: 400px;
     height: 200px;
   }
@@ -81,7 +81,7 @@ and (orientation: landscape) {
 /* For iPhone 4 Portrait or Landscape View */
 @media screen and (min-device-width: 320px)
 and (-webkit-min-device-pixel-ratio: 2) {
-  .gfg-div {
+  body {
     width: 400px;
     height: 400px;
   }
@@ -90,7 +90,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 /* For iPhone 5 Portrait or Landscape View */
 @media (device-height: 568px) and (device-width: 320px)
 and (-webkit-min-device-pixel-ratio: 2) {
-  .gfg-div {
+  body {
     width: 400px;
     height: 400px;
   }
@@ -99,7 +99,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 /* For iPhone 6 and 6 plus Portrait or Landscape View */
 @media (min-device-height: 667px) and (min-device-width: 375px)
 and (-webkit-min-device-pixel-ratio: 3) {
-  .gfg-div {
+  body {
     width: 400px;
     height: 400px;
   }
